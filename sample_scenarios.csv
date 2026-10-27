@@ -1,0 +1,9 @@
+test_id,scene,expected_behavior,actual_result,status
+TC-01,Person visible in clear lighting,Person label may appear,Not yet tested,Not tested
+TC-02,Chair visible in clear lighting,Chair label may appear,Not yet tested,Not tested
+TC-03,No supported objects visible,No obstacle speech alert,Not yet tested,Not tested
+TC-04,Large object close to camera,Rough visual proximity warning may occur,Not yet tested,Not tested
+TC-05,Camera unavailable,Clear camera error message,Not yet tested,Not tested
+TC-06,Low light or partial obstruction,Document any missed/incorrect detections,Not yet tested,Not tested
+TC-07,Bluetooth audio selected as system output,Speech should use selected audio output,Not yet tested,Not tested
+TC-08,Press q in preview,Application exits cleanly,Not yet tested,Not tested
